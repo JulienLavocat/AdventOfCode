@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 import fr.julienlavocat.aoc.d02.Main02;
 import fr.julienlavocat.aoc.utils.InputUtils;
 
-public class Test02 {
+public class Tests02 {
 
     // @Test
     public void p1_shouldFind2SafeReports() throws IOException {
